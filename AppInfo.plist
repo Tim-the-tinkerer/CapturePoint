@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleExecutable</key>
+    <string>CapturePoint</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.capturepoint.app</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>CapturePoint</string>
+    <key>CFBundleDisplayName</key>
+    <string>CapturePoint</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.5.3</string>
+    <key>CFBundleVersion</key>
+    <string>4</string>
+    <key>CFBundleGetInfoString</key>
+    <string>CapturePoint 0.5.3</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright © 2026 Tim Bestler. MIT License.</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.utilities</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+    <key>NSSupportsAutomaticGraphicsSwitching</key>
+    <true/>
+    <key>NSScreenCaptureUsageDescription</key>
+    <string>CapturePoint needs Screen Recording permission to capture and record your screen.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>CapturePoint can include your microphone in screen recordings when that option is on.</string>
+    <key>NSAudioCaptureUsageDescription</key>
+    <string>CapturePoint captures on-screen audio (the sound of videos and apps) so it can be saved with your recording.</string>
+</dict>
+</plist>
